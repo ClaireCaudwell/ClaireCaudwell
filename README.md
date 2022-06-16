@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Claire a frontend developer based in Stockholm, originally from the UK
+### Claire Caudwell: Frontend developer, Stockholm, Sweden 🇬🇧🇸🇪
 
 - **Passion for coding & building applications** 💖 using HTML, CSS, JavaScript, React framework and styled-components.
 - **Technigo Alumni autumn 2020 ✨** where I built weekly projects to learn new languages and frameworks and develop as a programmer ✌
